@@ -15,7 +15,5 @@ module.exports = {
       args[0].title = titulo
       return args
     })
-  },
-
-  outputDir: 'material'
+  }
 }

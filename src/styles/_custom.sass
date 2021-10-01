@@ -1,0 +1,80 @@
+.bg
+  &--1
+    background-color: $color-primario !important
+    &-claro
+      background-color: lighten($color-primario, 25% ) !important
+  &--2
+    background-color: $color-secundario !important
+    &-claro
+      background-color: lighten($color-secundario, 30% ) !important
+  &--3
+    background-color: $color-acento-contenido !important
+    &-claro
+      background-color: lighten($color-acento-contenido, 40% ) !important
+  &--4
+    background-color: $color-acento-botones !important
+    &-claro
+      background-color: lighten($color-acento-botones, 30% ) !important
+.color
+  &--1
+    color: $color-primario !important
+    &-claro
+      color: lighten($color-primario, 30% ) !important
+  &--2
+    color: $color-secundario !important
+    &-claro
+      color: lighten($color-secundario, 30% ) !important
+  &--3
+    color: $color-acento-contenido !important
+    &-claro
+      color: lighten($color-acento-contenido, 40% ) !important
+  &--4
+    color: $color-acento-botones !important
+    &-claro
+      color: lighten($color-acento-botones, 30% ) !important
+.tarjeta-bg
+  background-image: url(../assets/curso/tarjeta-bg.png)
+  background-position: center
+  background-size: 150% 150%
+  background-repeat: no-repeat
+  box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.123)
+.tarjeta-bg2
+  background-image: url(../assets/curso/tarjeta-bg-2.png)
+  background-position: center
+  background-size: 150% 150%
+  background-repeat: no-repeat
+  box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.123)
+
+
+//-- Botones slyder --//
+.carousel-control-prev
+  justify-content: start
+.carousel-control-next
+  justify-content: end
+.carousel-control-next-icon
+  background-image: url(../assets/curso/next.svg)
+  width: 60px
+  height: 60px
+  background-size: 60px 60px
+.carousel-control-prev-icon
+  background-image: url(../assets/curso/prev.svg)
+  width: 60px
+  height: 60px
+  background-size: 60px 60px
+
+.carousel-control-prev, .carousel-control-next
+  display: flex
+  &:active, &:focus, &:hover, 
+    background-color: transparent !important
+.vineta
+  &:before
+    content: url(../assets/curso/vineta.svg)
+    width: 11px
+    height: 11px
+.hover
+  transition: transform 0.4s ease-in-out
+  &:hover
+    transform: scale(1.1)
+    z-index: 1  
+.bg-gradient-1 
+  background: linear-gradient(180deg, rgba(216,204,236,.7) 0%, rgba(217,237,252,.7) 100%)

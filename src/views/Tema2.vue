@@ -10,7 +10,9 @@
       .col-lg-8(data-aos="fade-rigth")
         p.mb-5 Comencemos hablando sobre el <i>Picking</i>, es un proceso que sucede cuando el personal humano que forma parte del almacén de una organización prepara los pedidos realizados por el cliente. Su nombre se deriva de la palabra inglesa <i>“to pick“</i> que significa seleccionar y no es mas que eso, un conjunto de acciones destinadas al acondicionamiento de un producto pedido directamente bajo unas especificaciones por un cliente.
         .cajon.color-acento-contenido.bg--3-claro.p-4.mb-4
-          p Un almacén bien gestionado requiere un buen registro y gestión de las existencias de los productos que en él se depositan. Es necesario fijar un volumen mínimo de productos existentes, conocer la cantidad de productos que rotan y cuando se debe solicitar, así como los costos que se generan por la realización del pedido y del almacenamiento.
+          p 
+            b Ahora abordaremos otra definición muy importante que es el <i>Packing</i>, 
+              | es es una actividad que representa el embalaje, y consiste en la elaboración de los productos que se han recolectado en la fase de <i>picking</i> para ser enviados. Es decir, en llevar a cabo las tareas de empaque, embalaje o envase.
       .col-lg-4(data-aos="fade-left"): img(src="@/assets/curso/35.svg")
     #t_2_1.titulo-segundo(data-aos="fade-right")
       h2 2.1 Envase
@@ -30,31 +32,31 @@
               img(src='@/assets/curso/36.jpg', alt='Texto que describa la imagen')
           .col-md-8.mb-4.mb-md-0
             h4 Tapones
-            p Son el tipo de cierre por antonomasia. Los encontramos coronando toda clase de envases: botellas, frascos, viales, tarros, etc. Se trata de una categoría enorme, en la que hay cierres de todo tipo.
+            p son el tipo de cierre por antonomasia. Los encontramos coronando toda clase de envases: botellas, frascos, viales, tarros, etc. Se trata de una categoría enorme, en la que hay cierres de todo tipo.
             .row.mb-3
               .col-1: img(src='@/assets/curso/37.svg', alt='Texto que describa la imagen')
               .col-11
                 p
                   b Flip top: 
-                  | Este tipo de tapones Flip top presentan una bisagra (que puede unirse al envase mediante rosca o a presión) Está, al abrirse, deja salir el producto a través del orificio que presenta en la parte central. Este tipo de cierres puede verse sobre todo en envases para alimentación (por ejemplo, de aceites o salsas).
+                  | este tipo de tapones Flip top presentan una bisagra (que puede unirse al envase mediante rosca o a presión) Está, al abrirse, deja salir el producto a través del orificio que presenta en la parte central. Este tipo de cierres puede verse sobre todo en envases para alimentación (por ejemplo, de aceites o salsas).
             .row.mb-3
               .col-1: img(src='@/assets/curso/38.svg', alt='Texto que describa la imagen')
               .col-11
                 p
                   b Disc Top: 
-                  |  El tapón disc top permite controlar más fácilmente la cantidad de producto que sale de él. Consiste en un disco que, al ser presionado hacia un lado, deja a la vista una abertura por la que sale el producto. Este tipo de tapón es muy habitual en productos cosméticos.
+                  |  el tapón disc top permite controlar más fácilmente la cantidad de producto que sale de él. Consiste en un disco que, al ser presionado hacia un lado, deja a la vista una abertura por la que sale el producto. Este tipo de tapón es muy habitual en productos cosméticos.
             .row.mb-3
               .col-1: img(src='@/assets/curso/39.svg', alt='Texto que describa la imagen')
               .col-11
                 p
                   b De seguridad: 
-                  | Estos tapones cuentan con sistemas de seguridad, como cierres especiales o sellados que, además de conservar el producto intacto, dificultan su abertura, especialmente por niños. Son muy frecuentes en medicamentos.
+                  | estos tapones cuentan con sistemas de seguridad, como cierres especiales o sellados que, además de conservar el producto intacto, dificultan su abertura, especialmente por niños. Son muy frecuentes en medicamentos.
             .row.mb-3
               .col-1: img(src='@/assets/curso/40.svg', alt='Texto que describa la imagen')
               .col-11
                 p
                   b Vasito dosificador:
-                  | Otro tipo de tapón muy usual en la industria farmacéutica, que sirve a la vez de vasito para dosificar el producto.
+                  | otro tipo de tapón muy usual en la industria farmacéutica, que sirve a la vez de vasito para dosificar el producto.
 
       .py-3.py-md-4(titulo="Airless")
         .row
@@ -77,13 +79,13 @@
               .col-11
                 p
                   b Dosificadoras: 
-                  |  Las bombas dosificadoras liberan una cantidad determinada de producto al ser presionadas. Son habituales en envases de productos de limpieza.
+                  |  las bombas dosificadoras liberan una cantidad determinada de producto al ser presionadas. Son habituales en envases de productos de limpieza.
             .row.mb-3
               .col-1: img(src='@/assets/curso/44.svg', alt='Texto que describa la imagen')
               .col-11
                 p
                   b Pulverizadoras:
-                  | Este tipo de bombas pulverizadoras se caracterizan por pulverizar una finísima capa de producto, lo que las hace muy adecuadas para la cosmética.
+                  | este tipo de bombas pulverizadoras se caracterizan por pulverizar una finísima capa de producto, lo que las hace muy adecuadas para la cosmética.
     p.mb-5 El material en el que se fabrican los envases es otro criterio que permite clasificarlos fácilmente. Así, encontramos:
     .row.mb-5
       .col-lg-3

@@ -101,7 +101,8 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '3.4',
-            titulo: 'Cubicaje',
+            titulo:
+              'Cubicaje: Concepto, peso, volumen, gravedad, medidas, conversiones',
             hash: 't_3_4',
           },
           {
@@ -193,7 +194,7 @@ export default {
       referencia:
         'Carro Lupardo, E. (2016). Preparación de pedidos (transversal) (MF1326_1). Madrid, Spain: Editorial CEP, S.L. ',
       link:
-        'Recuperado de https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/51055?page=120',
+        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/51055?page=120',
     },
   ],
   glosario: [
@@ -233,12 +234,14 @@ export default {
         'Comprende las actividades de expedición y distribución de los productos terminados a los distintos mercados, constituyendo un nexo entre las funciones de producción y de comercialización.',
     },
     {
-      termino: '<i>Pallet</i>',
+      termino: 'Pallet',
+      terminoHtml: '<em>Pallet</em>',
       significado:
         'Plataforma reutilizable que permite el aprovechamiento del espacio, para la organización de diferentes elementos facilitando almacenamiento y transporte. Pueden ser de diferentes medidas y materiales.',
     },
     {
-      termino: '<i>Stock</i>',
+      termino: 'Stock',
+      terminoHtml: '<em>Stock</em>',
       significado:
         'Producto en existencia, disponible para el proceso de comercialización, distribución y entrega.',
     },
@@ -367,7 +370,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Veimar Celis Melendez',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

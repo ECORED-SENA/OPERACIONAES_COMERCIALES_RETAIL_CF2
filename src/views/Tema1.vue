@@ -8,7 +8,7 @@
       h1 Almacenamiento
     .row.mb-5
       .col-lg-8(data-aos="fade-rigth")
-        p.mb-5 En la actualidad las tendencias de la producción se dirigen a bajar al máximo los stocks en almacén, en consideración a las limitaciones de espacio, el costo de las instalaciones, lucro cesante de los productos y el grado de dinamismo con que se modifican los productos, incorporando nuevas tecnologías y características que pueden hacer obsoletos elementos en depósito.
+        p.mb-5 En estos tiempos las empresas desean tener un stock mínimo funcional en los almacenes y esto va marcado por las tendencias de producción. Al considerar las limitaciones que puede tener el espacio de almacenamiento, el costo que representan estas instalaciones, el movimiento de los productos, entre otras variables, se han ido incorporando nuevas tecnologías para garantizar un stock funcional, en óptimas condiciones y que sea dinámico en su movilidad para evitar elementos obsoletos en el mismo.
         .cajon.color-acento-contenido.bg--3-claro.p-4.mb-4
           p Un almacén bien gestionado requiere un buen registro y gestión de las existencias de los productos que en él se depositan. Es necesario fijar un volumen mínimo de productos existentes, conocer la cantidad de productos que rotan y cuando se debe solicitar, así como los costos que se generan por la realización del pedido y del almacenamiento.
       .col-lg-4(data-aos="fade-left"): img(src="@/assets/curso/0.svg")
@@ -93,13 +93,11 @@
     br
     .row.mb-5.align-items-center
       .col-lg-7(data-aos="fade-right")
-        p Las actividades de recibo y despacho se dan de manera continua en los almacenes, bodegas y centros de distribución. Los Retail requieren de una coordinación de actividades entre proveedores y clientes manteniendo constantemente un flujo de información.
+        p Este es un proceso recurrente que sucede continuamente en todos los actores del proceso de almacenamiento y distribución. Para lo cual se requiere mantener una comunicación y coordinación tal entre las partes, que permitan el éxito de este proceso.
           br
           br
-          |Las tareas de recibir las mercancías exigen cuidado y protección de las mismas, puesto que éstas permiten el desarrollo y gestión de la organización y dar respuesta a los clientes en los procesos de distribución. 
-          br
-          br
-          |Los procesos de recibo y despacho inician con una orden de compra siendo esta una solicitud dirigida al proveedor donde se especifica características, cantidades, además de términos de pago y de entrega.
+          |El recibo y despacho es un proceso especial, de cuidado, en donde se deben cumplir protocolos de seguridad para garantizar la preservación de los productos para dar respuestas a los usuarios finales del proceso de distribución. El mismo inicia con una orden de compra, que no es más que una solicitud formal, legal y contable donde se le especifica a un fabricante o un proveedor las características del producto solicitado, cantidad requerida y los términos y condiciones del proceso.
+
       .col-lg-5(data-aos="fade-left"): img(src='@/assets/curso/8.svg')
     h3(data-aos="fade-right") Procedimiento
     p.mb-5 La principal función del proceso de recepción de mercancía es la de garantizar al Retail, la correcta y eficiente entrada de productos para atender las necesidades de los clientes internos y externos, a continuación, podemos hallar los siguientes:  
@@ -201,7 +199,7 @@
     .tarjeta.tarjeta-bg2.p-4.my-5
       .row.justify-content-center.mb-3
         .col-lg-7
-          p.mb-5 Un despacho se identifica con un lugar o espacio en el que una organización o un profesional desarrolla su actividad. Este proceso es llevado por parte del responsable de bodega que es el encargado de llevar los productos que entra y salen del Retail, se explica la función principal es el control de inventarios y el recibo de productos.
+          p.mb-5 Un despacho se identifica con un lugar o espacio en el que una organización o un profesional desarrolla su actividad. Este proceso es llevado por parte del responsable de bodega que es el encargado de llevar los productos que entran y salen del Retail, se explica la función principal es el control de inventarios y el recibo de productos.
           h4 Procedimiento
           p El responsable de recibo se pone de acuerdo con el proveedor para asignar el día la hora y la fecha de entrega de los productos, por eso el jefe de recibos es el encargado de organizar la logística a los recibidores para cada tipo de productos.
         .col-lg-4.contenedor-img.position-relative
@@ -226,7 +224,7 @@
               li 
                 i.vineta
                 | Poder garantizar (Proveedor) que el cliente tiene las certificaciones para productos de uso controlado.
-              p Nota: En el caso de productos de uso controlado es importante que la orden de compra se genere por separado de los productos no contralados con el fin de  facilitar en control de entes reguladores.
+              p Nota: En el caso de productos de uso controlado es importante que la orden de compra se genere por separado de los productos no controlados con el fin de  facilitar en control de entes reguladores.
           .col-lg-3: img(src='@/assets/curso/13.svg').m-auto
       .tarjeta.bg--1-claro.p-4(titulo="Siguientes pasos")
         .row.justify-content-center.align-items-center
@@ -260,7 +258,7 @@
                 | Generación y envío del Aviso de Despacho hacia al cliente. Si no tiene la capacidad de generar un aviso de despacho vía el proveedor al pedir la cita debe especificar la cantidad y tipo de camiones que serán despachados para entregar la mercancía solicitada por el cliente.
               li 
                 i.vineta
-                | En los despachos de paqueteo, el proveedor debe incluir en la etiqueta de despacho (rótulo) el número de localización del punto de entrega simbolizado en código de barras. También aplica para las entregas en Cross Docking Predistribuido.
+                | En los despachos de paqueteo, el proveedor debe incluir en la etiqueta de despacho (rótulo) el número de localización del punto de entrega simbolizado en código de barras. También aplica para las entregas en <i>Cross Docking</i> Predistribuido.
               
           .col-lg-3: img(src='@/assets/curso/15.svg').m-auto
       .tarjeta.bg--1-claro.p-4(titulo="Para Finalizar")

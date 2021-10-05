@@ -258,7 +258,9 @@
                 | Generación y envío del Aviso de Despacho hacia al cliente. Si no tiene la capacidad de generar un aviso de despacho vía el proveedor al pedir la cita debe especificar la cantidad y tipo de camiones que serán despachados para entregar la mercancía solicitada por el cliente.
               li 
                 i.vineta
-                | En los despachos de paqueteo, el proveedor debe incluir en la etiqueta de despacho (rótulo) el número de localización del punto de entrega simbolizado en código de barras. También aplica para las entregas en <i>Cross Docking</i> Predistribuido.
+                p.mb-0 En los despachos de paqueteo, el proveedor debe incluir en la etiqueta de despacho (rótulo) el número de localización del punto de entrega simbolizado en código de barras. También aplica para las entregas en 
+                  spam.fst-italic Cross Docking 
+                  | Predistribuido.
               
           .col-lg-3: img(src='@/assets/curso/15.svg').m-auto
       .tarjeta.bg--1-claro.p-4(titulo="Para Finalizar")

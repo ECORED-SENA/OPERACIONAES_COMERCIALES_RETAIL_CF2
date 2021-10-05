@@ -55,7 +55,7 @@
               .col-1: img(src='@/assets/curso/40.svg', alt='Texto que describa la imagen')
               .col-11
                 p
-                  b Vasito dosificador:
+                  b Vasito dosificador:  
                   | otro tipo de tapón muy usual en la industria farmacéutica, que sirve a la vez de vasito para dosificar el producto.
 
       .py-3.py-md-4(titulo="Airless")
@@ -84,7 +84,7 @@
               .col-1: img(src='@/assets/curso/44.svg', alt='Texto que describa la imagen')
               .col-11
                 p
-                  b Pulverizadoras:
+                  b Pulverizadoras: 
                   | este tipo de bombas pulverizadoras se caracterizan por pulverizar una finísima capa de producto, lo que las hace muy adecuadas para la cosmética.
     p.mb-5 El material en el que se fabrican los envases es otro criterio que permite clasificarlos fácilmente. Así, encontramos:
     .row.mb-5

@@ -251,11 +251,13 @@ export default {
         'Empresa especializada en la organización y gestión, por encargo del usuario (cargador), de la cadena de transporte de mercancías (o de parte de ella) en cualquiera de sus modos (aéreo, carretera, ferrocarril y marítimo)',
     },
     {
-      termino: 'Zona de <i>picking</i>',
+      termino: 'Zona de picking',
+      terminoHtml: 'Zona de <em>picking</em>',
       significado: 'Lugar de preparación de pedidos y embalaje de producto',
     },
     {
-      termino: 'Zona de <i>pallets</i>',
+      termino: 'Zona de <pallets',
+      terminoHtml: 'Zona de <em>pallets</em>',
       significado:
         'Lugar de almacenamiento de bloques de <i>pallets</i> para su reorganización a través del <i>picking</i> o para una nueva distribución',
     },

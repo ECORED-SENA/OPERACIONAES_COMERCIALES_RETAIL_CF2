@@ -8,11 +8,11 @@
       h1 <i>Picking</i> y Packing
     .row.mb-5
       .col-lg-8(data-aos="fade-rigth")
-        p.mb-5 Comencemos hablando sobre el <i>Picking</i>, es un proceso que sucede cuando el personal humano que forma parte del almacén de una organización prepara los pedidos realizados por el cliente. Su nombre se deriva de la palabra inglesa <i>“to pick“</i> que significa seleccionar y no es mas que eso, un conjunto de acciones destinadas al acondicionamiento de un producto pedido directamente bajo unas especificaciones por un cliente.
+        p.mb-5 Comencemos hablando sobre el <i>Picking</i>, es un proceso que sucede cuando el personal humano que forma parte del almacén de una organización prepara los pedidos realizados por el cliente. Su nombre se deriva de la palabra inglesa <i>“to pick“</i> qué significa seleccionar y no es más que eso, un conjunto de acciones destinadas al acondicionamiento de un producto pedido directamente bajo unas especificaciones por un cliente.
         .cajon.color-acento-contenido.bg--3-claro.p-4.mb-4
           p 
             b Ahora abordaremos otra definición muy importante que es el <i>Packing</i>, 
-            | es es una actividad que representa el embalaje, y consiste en la elaboración de los productos que se han recolectado en la fase de <i>picking</i> para ser enviados. Es decir, en llevar a cabo las tareas de empaque, embalaje o envase.
+            | es una actividad que representa el embalaje, y consiste en la elaboración de los productos que se han recolectado en la fase de <i>picking</i> para ser enviados. Es decir, en llevar a cabo las tareas de empaque, embalaje o envase.
       .col-lg-4(data-aos="fade-left"): img(src="@/assets/curso/35.svg")
     #t_2_1.titulo-segundo(data-aos="fade-right")
       h2 2.1 Envase

@@ -196,14 +196,14 @@
     
     #t_1_2.titulo-segundo(data-aos="fade-right")
       h2 1.2  Despacho
-    .tarjeta.tarjeta-bg2.p-4.my-5
-      .row.justify-content-center.mb-3
+    .tarjeta-bg2.py-3.px-4.my-5
+      .row.justify-content-between.mb-3
         .col-lg-7
           p.mb-5 Un despacho se identifica con un lugar o espacio en el que una organización o un profesional desarrolla su actividad. Este proceso es llevado por parte del responsable de bodega que es el encargado de llevar los productos que entran y salen del Retail, se explica la función principal es el control de inventarios y el recibo de productos.
           h4 Procedimiento
-          p El responsable de recibo se pone de acuerdo con el proveedor para asignar el día la hora y la fecha de entrega de los productos, por eso el jefe de recibos es el encargado de organizar la logística a los recibidores para cada tipo de productos.
-        .col-lg-4.contenedor-img.position-relative
-          img.position-absolute(src='@/assets/curso/12.svg')
+          p El responsable de recibo se pone de acuerdo con el proveedor para asignar el día, la hora y la fecha de entrega de los productos, por eso el jefe de recibos es el encargado de organizar la logística a los recibidores para cada tipo de productos.
+        .col-lg-5.contenedor-img.position-relative
+          img.position-absolute(src='@/assets/curso/12.svg' style='width: 310px')
     h3(data-aos="fade-right") Preparación y despacho del pedido
     p.mb-5 Veamos los pasos para dicha preparación y despacho en sus diferentes momentos:
     TabsA.color-acento-contenido.mb-5
@@ -382,10 +382,10 @@
     h3(data-aos="fade-right") Importancia y manejo responsable
     .row.mb-5 
       .col-lg-7(data-aos="fade-right")
-        p.mb-5 El proceso de almacenamiento exige responsabilidad ante el manejo de la información, no solo para asegurar el proceso en sí mismo, sino también al manejar datos reales para dar respuesta a cada requerimiento, haciéndo necesario un sistema de control para esa gestión.
+        p.mb-5 El proceso de almacenamiento exige responsabilidad ante el manejo de la información, no solo para asegurar el proceso en sí mismo, sino también al manejar datos reales para dar respuesta a cada requerimiento, haciendo necesario un sistema de control para esa gestión.
           br
           br
-          |En el proceso del centro de distribución se usan diferentes elementos para el control adecuado de mercancías como el código de barras, el GPS y el RDFI. A vez utilizan EDI (Intercambio electrónico de datos) que permite una estructuración normada de datos, con altos parámetros de calidad, proveyendo un intercambio estructurado de información comercial sin dar oportunidad a ambigüedades.
+          |En el proceso del centro de distribución se usan diferentes elementos para el control adecuado de mercancías como el código de barras, el GPS y el RDFI. A vez utilizan EDI (Intercambio electrónico de datos) que permite una estructuración normalizada de datos, con altos parámetros de calidad, proveyendo un intercambio estructurado de información comercial sin dar oportunidad a ambigüedades.
         .cajon.color-primario.bg--1-claro.p-4.mb-4
           p El internet ha sido un medio propicio para las transacciones de negocios, pero esto ha requerido procesos internos con mayor efectividad que den respuesta a esa crecida demanda. Esto ha producido que se tenga que manejar continuamente grandes cantidades de información de forma simultánea, que garanticen la efectividad del proceso y que permita una toma asertiva de decisiones para la consecución de un proceso eficiente, rápido y oportuno.
       .col-lg-5(data-aos="fade-left"): img(src='@/assets/curso/24.svg')
@@ -469,4 +469,7 @@ export default {
         display: none
       .img2
         display: block
+.contenedor-img
+  img
+    right: 50px
 </style>

@@ -87,30 +87,30 @@
                   b Pulverizadoras: 
                   | este tipo de bombas pulverizadoras se caracterizan por pulverizar una finísima capa de producto, lo que las hace muy adecuadas para la cosmética.
     p.mb-5 El material en el que se fabrican los envases es otro criterio que permite clasificarlos fácilmente. Así, encontramos:
-    .row.mb-5
+    .row.mb-3
       .col-lg-3
-        .tarjeta.bg--1-claro2.h-100.hover
-          .d-flex.bg--1.h-50.justify-content-center.align-items-center.p-2.py-3
+        .tarjeta.bg--1-claro2.h-80.hover
+          .d-flex.bg--1.h-50.justify-content-center.align-items-center.p-2.pt-2
             .contenido.p-5
               img(src='@/assets/curso/45.svg', alt='Texto que describa la imagen' style="width: 94px").mb-2.m-auto
-              h4.text-center Plastico
+              h4.text-center Envases metálicos
           p.text-center.p-4.mb-0  El aluminio es una elección usual, dada su ligereza.
       .col-lg-3
-        .tarjeta.bg--2-claro.h-100.hover
+        .tarjeta.bg--2-claro.h-80.hover
           .d-flex.bg--2.h-50.justify-content-center.align-items-center.p-2.py-3
             .contenido.p-5
               img(src='@/assets/curso/46.svg', alt='Texto que describa la imagen' style="width: 94px").mb-2.m-auto
               h4.text-center Envases de vidrio
           p.text-center.p-4.mb-0  Históricamente ha sido uno de los más utilizados a raíz de su rigidez.
       .col-lg-3
-        .tarjeta.bg--1-claro2.h-100.hover
+        .tarjeta.bg--1-claro2.h-80.hover
           .d-flex.bg--1.h-50.justify-content-center.align-items-center.p-2.py-3
             .contenido.p-5
               img(src='@/assets/curso/47.svg', alt='Texto que describa la imagen' style="width: 94px").mb-2.m-auto
               h4.text-center Envases de plástico
           p.text-center.p-4.mb-0  A causa de su versatilidad, los plásticos de todo tipo son el tipo de material más habitual en el presente.
       .col-lg-3
-        .tarjeta.bg--2-claro.h-100.hover
+        .tarjeta.bg--2-claro.h-80.hover
           .d-flex.bg--2.h-50.justify-content-center.align-items-center.p-2.py-3
             .contenido.p-5
               img(src='@/assets/curso/48.svg', alt='Texto que describa la imagen' style="width: 94px").mb-2.m-auto

@@ -8,7 +8,7 @@
       h1 Almacenamiento
     .row.mb-5
       .col-lg-8(data-aos="fade-rigth")
-        p.mb-5 En estos tiempos las empresas desean tener un stock mínimo funcional en los almacenes y esto va marcado por las tendencias de producción. Al considerar las limitaciones que puede tener el espacio de almacenamiento, el costo que representan estas instalaciones, el movimiento de los productos, entre otras variables, se han ido incorporando nuevas tecnologías para garantizar un stock funcional, en óptimas condiciones y que sea dinámico en su movilidad para evitar elementos obsoletos en el mismo.
+        p.mb-5 En estos tiempos las empresas desean tener un <i>stock</i> mínimo funcional en los almacenes y esto va marcado por las tendencias de producción. Al considerar las limitaciones que puede tener el espacio de almacenamiento, el costo que representan estas instalaciones, el movimiento de los productos, entre otras variables, se han ido incorporando nuevas tecnologías para garantizar un <i>stock</i> funcional, en óptimas condiciones y que sea dinámico en su movilidad para evitar elementos obsoletos en el mismo.
         .cajon.color-acento-contenido.bg--3-claro.p-4.mb-4
           p Un almacén bien gestionado requiere un buen registro y gestión de las existencias de los productos que en él se depositan. Es necesario fijar un volumen mínimo de productos existentes, conocer la cantidad de productos que rotan y cuando se debe solicitar, así como los costos que se generan por la realización del pedido y del almacenamiento.
       .col-lg-4(data-aos="fade-left"): img(src="@/assets/curso/0.svg")
@@ -19,7 +19,7 @@
         figure.mb-5(data-aos="zoom-in-up")
           img(src="@/assets/curso/1.svg")
     h3(data-aos="fade-right") Tipos
-    p.mb-5 Un Retail es una infraestructura para el acopio de productos dentro de la cadena de suministro, en tal sentido son espacios físicos que cubren el periodo entre los flujos de entrada y de salida, podríamos definir que los progresos tecnológicos han organizado una necesaria clasificación de los tipos de almacenamiento a los que se puede en función de los materiales y sus características, los siguientes tipos de almacenamiento son los más acostumbrados:
+    p.mb-5 Un <i>Retail</i> es una infraestructura para el acopio de productos dentro de la cadena de suministro, en tal sentido son espacios físicos que cubren el periodo entre los flujos de entrada y de salida, podríamos definir que los progresos tecnológicos han organizado una necesaria clasificación de los tipos de almacenamiento a los que se puede en función de los materiales y sus características, los siguientes tipos de almacenamiento son los más acostumbrados:
     .tarjeta.tarjeta-bg(data-aos="zoom-in-up")
       #carouselExampleIndicators.carousel.slide.mb-5(data-bs-ride='carousel').p-5
         .carousel-indicators
@@ -64,10 +64,10 @@
             .row.justify-content-center
               .col-lg-5(data-aos="fade-rigth")
                 h4 Almacenamiento de refacciones
-                p Son los artículos destinados a corregir o reparar las unidades que ya han estado en manos de los consumidores. Si bien las incidencias de este tipo son mínimas, los Retail siempre deben disponer de material en almacén para las peticiones y necesidades de último momento.
+                p Son los artículos destinados a corregir o reparar las unidades que ya han estado en manos de los consumidores. Si bien las incidencias de este tipo son mínimas, los <i>Retail</i> siempre deben disponer de material en almacén para las peticiones y necesidades de último momento.
                   br
                   br
-                  |El almacenamiento es una función que va mucho más allá de la labor de acopio en un Retail, detrás hay un estudio de las características de cada producto y de las condiciones de su almacenamiento.
+                  |El almacenamiento es una función que va mucho más allá de la labor de acopio en un <i>Retail</i>, detrás hay un estudio de las características de cada producto y de las condiciones de su almacenamiento.
               .col-lg-5(data-aos="fade-left")
                 img(src="@/assets/curso/6.jpg")
             
@@ -80,7 +80,7 @@
     p.mb-5 El 
       spa.color--1 
         b almacenamiento 
-      |es una función que va mucho más allá de la labor de acopio en un Retail, detrás hay un estudio de las características de cada producto y de las condiciones de su almacenamiento.
+      |es una función que va mucho más allá de la labor de acopio en un <i>Retail</i>, detrás hay un estudio de las características de cada producto y de las condiciones de su almacenamiento.
     h3(data-aos="fade-right") Zonas
     p.mb-5 La zona de almacenamiento es el eje fundamental y debemos determinar el efecto, en el número y tipos de muebles, estanterías, medios de manipulación, ubicación y la colocación de los productos en los muebles o estanterías para lograr el máximo rendimiento.
       br
@@ -100,7 +100,7 @@
 
       .col-lg-5(data-aos="fade-left"): img(src='@/assets/curso/8.svg')
     h3(data-aos="fade-right") Procedimiento
-    p.mb-5 La principal función del proceso de recepción de mercancía es la de garantizar al Retail, la correcta y eficiente entrada de productos para atender las necesidades de los clientes internos y externos, a continuación, podemos hallar los siguientes:  
+    p.mb-5 La principal función del proceso de recepción de mercancía es la de garantizar al <i>Retail</i>, la correcta y eficiente entrada de productos para atender las necesidades de los clientes internos y externos, a continuación, podemos hallar los siguientes:  
     .row.my-5
       .col-md-6.col-lg.mb-5.mb-lg-0.mt-5
         .tarjeta-avatar
@@ -199,7 +199,7 @@
     .tarjeta-bg2.py-3.px-4.my-5
       .row.justify-content-between.mb-3
         .col-lg-7
-          p.mb-5 Un despacho se identifica con un lugar o espacio en el que una organización o un profesional desarrolla su actividad. Este proceso es llevado por parte del responsable de bodega que es el encargado de llevar los productos que entran y salen del Retail, se explica la función principal es el control de inventarios y el recibo de productos.
+          p.mb-5 Un despacho se identifica con un lugar o espacio en el que una organización o un profesional desarrolla su actividad. Este proceso es llevado por parte del responsable de bodega que es el encargado de llevar los productos que entran y salen del <i>Retail</i>, se explica la función principal es el control de inventarios y el recibo de productos.
           h4 Procedimiento
           p El responsable de recibo se pone de acuerdo con el proveedor para asignar el día, la hora y la fecha de entrega de los productos, por eso el jefe de recibos es el encargado de organizar la logística a los recibidores para cada tipo de productos.
         .col-lg-5.contenedor-img.position-relative
@@ -224,7 +224,7 @@
               li 
                 i.vineta
                 | Poder garantizar (Proveedor) que el cliente tiene las certificaciones para productos de uso controlado.
-              p Nota: En el caso de productos de uso controlado es importante que la orden de compra se genere por separado de los productos no controlados con el fin de  facilitar en control de entes reguladores.
+              p Nota: En el caso de productos de uso controlado es importante que la orden de compra se genere por separado de los productos no controlados con el fin de  facilitar el control de entes reguladores.
           .col-lg-3: img(src='@/assets/curso/13.svg').m-auto
       .tarjeta.bg--1-claro.p-4(titulo="Siguientes pasos")
         .row.justify-content-center.align-items-center
@@ -236,10 +236,12 @@
                 | Reserva de la mercancía
               li 
                 i.vineta
-                | Generación de la lista de Picking, con el visto bueno de la persona encargada de asegurar la calidad del despacho al cliente.
+                p.mb-0 Generación de la lista de 
+                  span.fst-italic Picking, 
+                  | con el visto bueno de la persona encargada de asegurar la calidad del despacho al cliente.
               li 
                 i.vineta
-                | En el caso de Operadores Logísticos, el proveedor debe enviar las instrucciones de Despacho. 
+                | En el caso de Operadores Logísticos, el proveedor debe enviar las instrucciones de despacho. 
               li 
                 i.vineta
                 | Preparación del pedido por parte del proveedor u operador logístico utilizando los mecanismos de seguridad acordados previamente, con el fin de garantizar el despacho de lo solicitado en la calidad acordada y la facturación de cantidades iguales a las físicamente entregadas.
@@ -374,8 +376,8 @@
       img(src='@/assets/curso/23.jpg')
     #t_1_3.titulo-segundo(data-aos="fade-right")
       h2 1.3 Datos
-    p.mb-5 Llamamos Big Data a la eventualidad de capturar y almacenar un volumen muy alto de datos estructurados y no estructurados. Por lo tanto, 
-      b mucho más importante que el tamaño de estos datos, o el volumen, es lo que la industria del Retail puede hacer teniendo a la mano esta información.
+    p.mb-5 Llamamos <i>Big data</i> a la eventualidad de capturar y almacenar un volumen muy alto de datos estructurados y no estructurados. Por lo tanto, 
+      b mucho más importante que el tamaño de estos datos, o el volumen, es lo que la industria del <i>Retail</i> puede hacer teniendo a la mano esta información.
       br
       br
       |Las empresas han organizado sistemas de gestión de datos para poder dar frente a las necesidades y requerimiento de la operación dando un manejo ético y responsable de datos de clientes.
@@ -385,14 +387,14 @@
         p.mb-5 El proceso de almacenamiento exige responsabilidad ante el manejo de la información, no solo para asegurar el proceso en sí mismo, sino también al manejar datos reales para dar respuesta a cada requerimiento, haciendo necesario un sistema de control para esa gestión.
           br
           br
-          |En el proceso del centro de distribución se usan diferentes elementos para el control adecuado de mercancías como el código de barras, el GPS y el RDFI. A vez utilizan EDI (Intercambio electrónico de datos) que permite una estructuración normalizada de datos, con altos parámetros de calidad, proveyendo un intercambio estructurado de información comercial sin dar oportunidad a ambigüedades.
+          |En el proceso del centro de distribución se usan diferentes elementos para el control adecuado de mercancías como el código de barras, el GPS y el RDFI. A su vez utilizan EDI (Intercambio electrónico de datos) que permite una estructuración normalizada de datos, con altos parámetros de calidad, proveyendo un intercambio estructurado de información comercial sin dar oportunidad a ambigüedades.
         .cajon.color-primario.bg--1-claro.p-4.mb-4
           p El internet ha sido un medio propicio para las transacciones de negocios, pero esto ha requerido procesos internos con mayor efectividad que den respuesta a esa crecida demanda. Esto ha producido que se tenga que manejar continuamente grandes cantidades de información de forma simultánea, que garanticen la efectividad del proceso y que permita una toma asertiva de decisiones para la consecución de un proceso eficiente, rápido y oportuno.
       .col-lg-5(data-aos="fade-left"): img(src='@/assets/curso/24.svg')
-    p.mb-5 La razón por la cual el análisis de los datos es fundamental en el Retail, como se ha venido diciendo en la cadena de suministro, es que todos los días a cada hora y minuto, innumerables productos entran y salen de la sala de ventas.
+    p.mb-5 La razón por la cual el análisis de los datos es fundamental en el <i>Retail</i>, como se ha venido diciendo en la cadena de suministro, es que todos los días a cada hora y minuto, innumerables productos entran y salen de la sala de ventas.
       br
       br
-      |Con datos incorrectos, un Retail que hace una suposición errónea, está en condiciones de hacer más daño en el control de este, Para enfocar mejor el poder de los datos, los Retail necesita emplear un equipo interno con una excelente tecnología en la relación a los datos ampliamente.
+      |Con datos incorrectos, un <i>Retail</i> que hace una suposición errónea, está en condiciones de hacer más daño en el control de este, para enfocar mejor el poder de los datos, los <i>Retail</i> necesita emplear un equipo interno con una excelente tecnología en la relación a los datos ampliamente.
 
 </template>
 
@@ -405,14 +407,14 @@ export default {
       {
         titulo: 'Capacidad de almacenamiento',
         texto:
-          'Se entiende al espacio o superficie total del Retail en metros cuadrados. Este dato se obtiene al adquirir la edificación, ahora bien, hay que restar los espacios no dedicados al almacenaje de mercancías: como son los baños, vestuarios, oficinas, entre otros, en cuanto a la altura máxima de la edificación. Esta se obtiene restando elementos, como los sistemas de ventilación, iluminación u otros, a la altura del techo de la bodega.',
+          'Se entiende al espacio o superficie total del <i>Retail</i> en metros cuadrados. Este dato se obtiene al adquirir la edificación, ahora bien, hay que restar los espacios no dedicados al almacenaje de mercancías: como son los baños, vestuarios, oficinas, entre otros, en cuanto a la altura máxima de la edificación. Esta se obtiene restando elementos, como los sistemas de ventilación, iluminación u otros, a la altura del techo de la bodega.',
         imagen: require('@/assets/curso/7.jpg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
-        titulo: 'Facilidad para el picking ',
+        titulo: 'Facilidad para el <i>Picking</i> ',
         texto:
-          'Que es la actividad de preparación de pedidos, para despachar al Retail.',
+          'Que es la actividad de preparación de pedidos, para despachar al <i>Retail</i>.',
         imagen: require('@/assets/curso/8.jpg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },

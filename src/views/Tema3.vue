@@ -34,7 +34,7 @@
     .row.mb-5
       .col-lg-6(data-aos="fade-right"): img(src='@/assets/curso/68.jpg')
       .col-lg-6(data-aos="fade-left")
-        p.mb-5 Se entiende por rotulación, al código que explica la designación del producto, también se puede entender también la rotulación a los carteles o vallas publicitarias, podemos observar, ya sea de cerca o de lejos, un conjunto de letras, tamaños y formas distintas, pero que tienen legibilidad.
+        p.mb-5 Se entiende por rotulación, al código que explica la designación del producto, también se puede entender  la rotulación a los carteles o vallas publicitarias, podemos observar, ya sea de cerca o de lejos, un conjunto de letras, tamaños y formas distintas, pero que tienen legibilidad.
         h4 Normas Técnicas Internacionales 
         p Como en la mayoría de los procesos logísticos, detrás de los mismos hay un marco legal a través diferentes documentos normados y de carácter técnico con cobertura nacional e internacional. Los mismos estipulan los criterios de calidad y técnicos de todo producto o servicio y de sus procesos. Busca dar precisión y mostrar métodos de muestreo, registro, auditoría, entre otros, a través de la tecnología para la elaboración de productos u oferta de servicios pertinentes.
     #t_3_4.titulo-segundo(data-aos="fade-right")
@@ -113,13 +113,13 @@
           .contenedor-i-flotante__icono.float1: img(src='@/assets/curso/80.svg' style='width: 97px')
           .contenedor-i-flotante__contenido
             h4 Especificaciones técnicas 
-            p La norma ISO 45001 lleva la gestión de la seguridad y salud en el trabajo, también de la mejora continua en la organización, por una parte, Disminuye el índice de lesiones, enfermedades y muertes, Separan los riesgos que se encuentran relacionados con la seguridad y salud en el trabajo.
+            p La norma ISO 45001 lleva la gestión de la seguridad y salud en el trabajo, también de la mejora continua en la organización, por una parte, disminuye el índice de lesiones, enfermedades y muertes, separan los riesgos que se encuentran relacionados con la seguridad y salud en el trabajo.
       .col-lg-6(data-aos="fade-left").mt-5
         .contenedor-i-flotante.bg-morado-claro.p-5.h-100
           .contenedor-i-flotante__icono.float2: img(src='@/assets/curso/81.svg' style='width: 97px')
           .contenedor-i-flotante__contenido
             h4 Objetivos
-            p Es el cuidado de medidas y el avance de las actividades necesarias para la prevención de riesgos derivados en el trabajo, con la base en: 
+            p Es el cuidado de medidas y el avance de las actividades necesarias para la prevención de riesgos derivados en el trabajo, con base en: 
             ul.lista-ul--color
               li 
                 i.vineta

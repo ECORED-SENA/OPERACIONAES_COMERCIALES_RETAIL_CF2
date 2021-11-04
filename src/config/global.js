@@ -50,7 +50,7 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: '<i>Picking</i> y Packing',
+        titulo: '<i>Picking</i> y <i>Packing</i>',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -121,12 +121,12 @@ export default {
       },
     ],
     subMenu: [
-      // {
-      //   nombreRuta: 'actividad',
-      //   icono: 'far fa-question-circle',
-      //   titulo: 'Actividad didáctica',
-      //   desarrolloContenidos: true,
-      // },
+      {
+        nombreRuta: 'actividad',
+        icono: 'far fa-question-circle',
+        titulo: 'Actividad didáctica',
+        desarrolloContenidos: true,
+      },
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
@@ -142,11 +142,11 @@ export default {
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
       },
-      {
-        icono: 'fas fa-download',
-        titulo: 'Descargar material',
-        download: 'downloads/material.zip',
-      },
+      // {
+      //   icono: 'fas fa-download',
+      //   titulo: 'Descargar material',
+      //   download: 'downloads/material.zip',
+      // },
       {
         icono: 'far fa-registered',
         titulo: 'Créditos',
@@ -171,12 +171,6 @@ export default {
       referencia:
         'Castellano Ramírez, A. (2015). Logística comercial internacional. Universidad del Norte. ',
       link: 'https://www-digitaliapublishing-com.bdigital.sena.edu.co/a/37553',
-    },
-    {
-      referencia:
-        'Flamarique, S. (2019). Manual de gestión de almacenes. Barcelona, Marge Books',
-      link:
-        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/111434?page=20.',
     },
     {
       referencia:
@@ -215,6 +209,7 @@ export default {
     },
     {
       termino: 'Gestión de stock',
+      terminoHtml: 'Gestión de <i>stock</i>',
       significado:
         'Es el proceso de gestionar las existencias de producto y su valor',
     },

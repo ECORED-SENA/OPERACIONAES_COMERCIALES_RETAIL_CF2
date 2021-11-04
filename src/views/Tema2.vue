@@ -5,7 +5,7 @@
     .titulo-principal(data-aos="flip-up")
       .titulo-principal__numero
         span 2
-      h1 <i>Picking</i> y Packing
+      h1 <i>Picking</i> y <i>Packing</i>
     .row.mb-5
       .col-lg-8(data-aos="fade-rigth")
         p.mb-5 Comencemos hablando sobre el <i>Picking</i>, es un proceso que sucede cuando el personal humano que forma parte del almacén de una organización prepara los pedidos realizados por el cliente. Su nombre se deriva de la palabra inglesa <i>“to pick“</i> qué significa seleccionar y no es más que eso, un conjunto de acciones destinadas al acondicionamiento de un producto pedido directamente bajo unas especificaciones por un cliente.
@@ -16,7 +16,7 @@
       .col-lg-4(data-aos="fade-left"): img(src="@/assets/curso/35.svg")
     #t_2_1.titulo-segundo(data-aos="fade-right")
       h2 2.1 Envase
-    p.mb-5 Es el recipiente que contiene el producto. Su elaboración puede ser de diferentes materiales que cumplan su función. Ésta es la de contener, proteger, mantener, facilitar su manipulación y atraer a los clientes. Las funciones estéticas del envase son muy cuidadas y tratarán, asimismo, cumplir las funciones de optimización de su transporte, facilitando la conformación de unidades de carga con su diseño. No se podrá separar al producto de dicho envase y el consumo, en la mayoría de los casos, se realiza desde él. 
+    p.mb-5 Es el recipiente que contiene el producto. Su elaboración puede ser de diferentes materiales que cumplan su función. Esta es la de contener, proteger, mantener, facilitar su manipulación y atraer a los clientes. Las funciones estéticas del envase son muy cuidadas y tratarán, asimismo, cumplir las funciones de optimización de su transporte, facilitando la conformación de unidades de carga con su diseño. No se podrá separar al producto de dicho envase y el consumo, en la mayoría de los casos, se realiza desde él. 
     h3(data-aos="fade-right") Características y tipos
     p.mb-5 Existen muchísimos criterios según los cuales es posible clasificar los envases, nos centraremos en dos de ellos: según tipo de cierre y según material en el que se fabrican.
       br
@@ -37,14 +37,14 @@
               .col-1: img(src='@/assets/curso/37.svg', alt='Texto que describa la imagen')
               .col-11
                 p
-                  b Flip top: 
-                  | este tipo de tapones Flip top presentan una bisagra (que puede unirse al envase mediante rosca o a presión) Está, al abrirse, deja salir el producto a través del orificio que presenta en la parte central. Este tipo de cierres puede verse sobre todo en envases para alimentación (por ejemplo, de aceites o salsas).
+                  b <i>Flip top</i>: 
+                  | este tipo de tapones <i>Flip top</i> presentan una bisagra (que puede unirse al envase mediante rosca o a presión) Esta, al abrirse, deja salir el producto a través del orificio que presenta en la parte central. Este tipo de cierres puede verse sobre todo en envases para alimentación (por ejemplo, de aceites o salsas).
             .row.mb-3
               .col-1: img(src='@/assets/curso/38.svg', alt='Texto que describa la imagen')
               .col-11
                 p
-                  b Disc Top: 
-                  |  el tapón disc top permite controlar más fácilmente la cantidad de producto que sale de él. Consiste en un disco que, al ser presionado hacia un lado, deja a la vista una abertura por la que sale el producto. Este tipo de tapón es muy habitual en productos cosméticos.
+                  b <i>Disc Top:</i> 
+                  | el tapón <i>disc top</i> permite controlar más fácilmente la cantidad de producto que sale de él. Consiste en un disco que, al ser presionado hacia un lado, deja a la vista una abertura por la que sale el producto. Este tipo de tapón es muy habitual en productos cosméticos.
             .row.mb-3
               .col-1: img(src='@/assets/curso/39.svg', alt='Texto que describa la imagen')
               .col-11
@@ -155,7 +155,7 @@
               | Función estética, que hace que el envase resulte más atractivo para el consumidor y lo escoja frente a otros productos similares
             li 
               i.vineta
-              | Función de marketing, relacionada con cómo se vende o se publicita el producto
+              | Función de <i>marketing</i>, relacionada con cómo se vende o se publicita el producto
             li 
               i.vineta
               | Etiquetado, que incluye información de gran utilidad sobre el producto y sus características
@@ -258,7 +258,7 @@
         p El mismo unifica productos que poseen embalaje de los dos niveles anteriores. Permite que se unifiquen cargas de producto de forma segura, que facilitan su manejo. Las empresas en su proceso de distribución y envíos siempre utilizan este tipo de embalaje independientemente del tipo de producto y normalmente los mismos son vistos por los consumidores finales. Siendo un ejemplo común la paletización, donde se cargan diferentes cajas de producto de forma organizada, con separadores y plástico que envuelve completamente dicha carga.
           br
           br
-          |Los tres tipos de embalaje guardan una estrecha relación entre ellos, pero principalmente con los distintos eslabones de la cadena de suministro. Pero pudiendo hacer una distinción pudiendo ver una mayor relación del primario con consumidores finales y de los otros dos con el proceso llevado entre distribuidores y fabricantes.
+          |Los tres tipos de embalaje guardan una estrecha relación entre ellos, pero principalmente con los distintos eslabones de la cadena de suministro. Pudiendo ver una mayor relación del primario con consumidores finales y de los otros dos con el proceso llevado entre distribuidores y fabricantes.
       .col-lg-5(data-aos="fade-left"): img(src='@/assets/curso/64.svg' style='width: 378px').m-auto
 
 
